@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="welcome_to_tic_tac_toe">Welcome to Tic-Tac-Toe</string>
+    <string name="maingrid">mainGrid</string>
+    <string name="restart">Restart</string>
+    <string name="infoBody">First of all, Thank You for playing this game.\n\n Hello, I am Binit, 17 yrs old boy who just started coding.\n By the way this is not my first app but yes, this is one of the best apps till now that I have created.\n\n If you want to know more about me or about my projects here is my Gmail ID:\n binitguptapro@gmail.com.</string>
+    <string name="infoTitle">ABOUT THE DEVELOPER</string>
+    <string name="how_to_play">How To Play</string>
+    <string name="information">Information</string>
+    <string name="howToPlayBody">1. The game is played on a grid that\'s 3 squares by 3 squares.\n\n2. You are X, your friend (or the computer in this case) is O. Players take turns putting their marks in empty squares.\n\n3. The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.\n\n4. When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.</string>
+    <string name="howToPlayTitle">RULES FOR TIC-TAC-TOE</string>
+</resources>
