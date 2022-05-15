@@ -3,7 +3,7 @@
     <string name="welcome_to_tic_tac_toe">Welcome to Tic-Tac-Toe</string>
     <string name="maingrid">mainGrid</string>
     <string name="restart">Restart</string>
-    <string name="infoBody">First of all, Thank You for playing this game.\n\n Hello, I am Binit, 17 yrs old boy who just started coding.\n By the way this is not my first app but yes, this is one of the best apps till now that I have created.\n\n If you want to know more about me or about my projects here is my Gmail ID:\n binitguptapro@gmail.com.</string>
+    <string name="infoBody">First of all, Thank You for playing this game.\n\nHello, I am Binit, 17 yrs old boy who just started coding.\nBy the way this is not my first app but yes, this is one of the best apps till now that I have created.\n\nIf you want to know more about me or about my projects here is my G-mail ID:</string>
     <string name="infoTitle">ABOUT THE DEVELOPER</string>
     <string name="how_to_play">How To Play</string>
     <string name="information">Information</string>
